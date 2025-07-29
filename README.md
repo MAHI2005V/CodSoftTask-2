@@ -60,7 +60,7 @@ based on their **sepal** and **petal** measurements.
 
 ## 🔗 Links
 
-- 📂 View Notebook on GitHub : 
+- 📂 View Notebook on GitHub : https://github.com/MAHI2005V/CodSoftTask-2/blob/main/Iris-flower-checkpoint.ipynb
 - 
 
 ---

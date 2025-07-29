@@ -1,22 +1,33 @@
-# 🌸 Iris Flower Classification – Machine Learning Project
+# 🌸 Iris Flower Classification – CodSoft Internship
 
 ![Iris Dataset](https://upload.wikimedia.org/wikipedia/commons/5/56/Iris_dataset_scatterplot.svg)
 
-## 🚀 Task 2: Iris Dataset Classification (CodSoft Internship)
+---
 
-This repository contains my submission for **Task 2** of the **#CodSoft Internship**, where I worked on classifying Iris flowers into different species using machine learning.
+## 📌 Project Overview
+This project is part of my Data Science Internship with CodSoft, where I explored the fundamentals of supervised machine learning through a classic classification problem — the Iris Flower Dataset. 🌸
+The aim was to develop a model that accurately classifies Iris flowers into their respective species based on four key features:
+
+Sepal Length
+
+Sepal Width
+
+Petal Length
+
+Petal Width
 
 ---
 
-## 📌 Objective
+🎯 Objective
+To build and evaluate a classification model that can categorize Iris flowers into one of the following species:
 
-To build a supervised machine learning model that classifies Iris flowers into one of the following species:
+🌼 Setosa
 
-- *Setosa*
-- *Versicolor*
-- *Virginica*
+🌷 Versicolor
 
-based on their **sepal** and **petal** measurements.
+🌹 Virginica
+
+using their sepal and petal measurements as input features.
 
 ---
 
